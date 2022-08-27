@@ -20,15 +20,17 @@ Is movie making money?
 Microsoft definitely has plenty of money to jump in on the big budget movies immediately, but without knowing the quality of their other investment opportunities and given they have an existing brand that is very valuable, I wanted to present a balanced approach that considers ROI, total profit, and also "quality". Why are these questions important from a business perspective? ROI is important to decide which movie making ventures make sense to fund vs. using the money in other Microsoft projects. Total profit is important in understanding the total amount of money that can be made making movies. Vote average may be important to Microsoft's brand, depending on how clearly the movie studio is associated with the parent company. Being associated with cheap or low quality things may damage Microsoft overall, even if the movies make them more money.
 
 2. DATA UNDERSTANDING
+
 2.1. DATA COLLECTION
 The data was collected from the folder zippedData. In the folder zippedData in the associated GitHub repository are movie datasets from: Box Office Mojo, IMDB, Rotten Tomatoes and TheMovieDB.org.
 
 3. DATA PREPARATION
+
 3.1. SELECTING DATA
 
 We’ll use tables movie_basics and movie_ratings of the IMDB database and bom.movie_gross.csv.gz   as they are all relevant to the study.
-3.2. DATA CLEANING
 
+3.2. DATA CLEANING
 
 This was done to ensure the Validity, Accuracy, Completeness, Consistency and Uniformity of the Data.
 
